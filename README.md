@@ -4,6 +4,15 @@ Welcome to my GitHub! I'm a passionate developer and a problem-solver.
 
 ---
 
+### 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-biswas-84b824266/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_AkashKumar_/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_AkashKumar_)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-2f80ed?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/akash-biswas_233/)
+
+---
+
 ### 🛠️ Languages, Tools & Technologies:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -22,14 +31,6 @@ Welcome to my GitHub! I'm a passionate developer and a problem-solver.
 
 ---
 
-### 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-biswas-84b824266/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_AkashKumar_/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_AkashKumar_)
-[![InterviewBit](https://img.shields.io/badge/InterviewBit-2f80ed?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/akash-biswas_233/)
-
----
 
 ### 📊 GitHub Stats:
 
