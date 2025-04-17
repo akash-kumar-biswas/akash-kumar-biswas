@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate developer and a problem-solver.
 
 ### 🛠️ Languages, Tools & Technologies:
 
-<div align="center" style="width: 80%; margin: auto;">
+<div  style="width: 80%; margin: auto;">
 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
