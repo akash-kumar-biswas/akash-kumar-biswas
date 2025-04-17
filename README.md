@@ -2,6 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate developer and a problem-solver.
 
+---
 
 ### 🛠️ Tools & Technologies:
 
@@ -19,15 +20,23 @@ Welcome to my GitHub! I'm a passionate developer and a problem-solver.
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-ED1C24?style=for-the-badge&logo=oracle&logoColor=white)
 
+---
 
 ### 🌐 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-biswas-84b824266/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_AkashKumar_/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_AkashKumar_)
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-2f80ed?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/akash-biswas_233/)
 
+---
+
 ### 📊 GitHub Stats:
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-biswas&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-kumar-biswas&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+---
 
 ### 🎯 My Top Programming Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-biswas&langs_count=8&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumar-biswas&langs_count=8&layout=compact&theme=radical)
