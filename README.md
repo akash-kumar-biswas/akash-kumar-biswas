@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&width=500&lines=Hi%2C+I'm+Akash+Biswas+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
 ## Hi, I'm Akash Biswas 👋
 
 Welcome to my GitHub! I'm a passionate developer and a problem-solver.
