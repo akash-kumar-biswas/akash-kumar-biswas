@@ -41,6 +41,7 @@ Welcome to my GitHub! I'm a passionate developer and a problem-solver.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=akash-kumar-biswas&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
+---
 
 ### 🎯 My Top Programming Languages:
 
