@@ -1,4 +1,4 @@
-## Hi I'm Akash Biswas 👋
+## Hi, I'm Akash Biswas 👋
 
 <!--
 **akash-kumar-biswas/akash-kumar-biswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://www.linkedin.com/in/akash-biswas-84b824266/)
-[![LeetCode](https://leetcode.com/u/_AkashKumar_/)
-[![Codeforces](https://codeforces.com/profile/_AkashKumar_)
-[![InterviewBit](https://www.interviewbit.com/profile/akash-biswas_233/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-biswas-84b824266/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_AkashKumar_/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_AkashKumar_)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-2f80ed?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/akash-biswas_233/)
+
 
