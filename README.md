@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Akash Biswas 👋
 
 <!--
 **akash-kumar-biswas/akash-kumar-biswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🌐 Connect with me:
+
+[![LinkedIn](https://www.linkedin.com/in/akash-biswas-84b824266/)
+[![LeetCode](https://leetcode.com/u/_AkashKumar_/)
+[![Codeforces](https://codeforces.com/profile/_AkashKumar_)
+[![InterviewBit](https://www.interviewbit.com/profile/akash-biswas_233/)
+
