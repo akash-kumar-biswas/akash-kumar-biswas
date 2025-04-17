@@ -34,16 +34,16 @@ Welcome to my GitHub! I'm a passionate developer and a problem-solver.
 
 ### 📊 GitHub Stats:
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-kumar-biswas&show_icons=true&count_private=true&hide=prs&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=akash-kumar-biswas&show_icons=true&count_private=true&hide=prs&theme=radical&card_width=500" alt="Akash's GitHub Stats" width="100%"/>
 
 ---
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akash-kumar-biswas&theme=radical&hide_border=false)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=akash-kumar-biswas&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" width="100%"/>
 
 ---
 
 ### 🎯 My Top Programming Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumar-biswas&langs_count=8&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumar-biswas&langs_count=8&layout=compact&theme=radical&card_width=500" alt="Top Languages" width="100%"/>
