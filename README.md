@@ -14,8 +14,8 @@
 ### 🧠 Coding Platforms:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_AkashKumar_/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_AkashKumar_)
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-2f80ed?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/akash-biswas_233/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_AkashKumar_)
 
 ---
 
