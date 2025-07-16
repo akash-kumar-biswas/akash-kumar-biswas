@@ -64,6 +64,12 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akash-kumar-biswas&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 🎯 My Top Programming Languages:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumar-biswas&langs_count=8&layout=compact&theme=radical&card_width=500" alt="Top Languages" width="80%"/>
