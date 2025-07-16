@@ -60,7 +60,7 @@
 
 ### 📈 GitHub Activity Graph
 
-[![Akash's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=akash-kumar-biswas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akash-kumar-biswas&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
